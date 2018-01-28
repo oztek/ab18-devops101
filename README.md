@@ -1,2 +1,1 @@
-# ab18-devops
-AB2018 - Devops Notları
+# AB2018 - DevOps
