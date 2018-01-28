@@ -1,0 +1,4 @@
+# Temeller
+
+## Konular
+ * DevOps Nedir?
